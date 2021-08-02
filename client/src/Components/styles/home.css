@@ -1,0 +1,29 @@
+.main-body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.searchConatiner {
+    width: 50%;
+}
+.searchbar {
+    border: 1px solid gray;
+   border-radius: 15px !important;
+   /* box-shadow: 2px 2px 2px 2px hsl(0, 0%, 90%) !important; */
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.search-text{
+    font-weight: bold;
+    color:#515151;
+}
+
+.searchConatiner p{
+    text-align: center;
+    font-size: 13px;
+    color:cadetblue;
+}
+
+.soap{
+    color: #3ecc89;
+}
